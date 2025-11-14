@@ -1,6 +1,6 @@
-# Instructions
+# NBA Draft Prospect Analysis. Instructions Below 
 
-1. CREATE A .ENV file (in root directory) and insert your values. Let me know if you need mine
+1. CREATE A .ENV file (in root directory) and insert your values. 
     - POSTGRES_DB=
       POSTGRES_USER=
       POSTGRES_PASSWORD=
